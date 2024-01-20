@@ -2,6 +2,8 @@
 
 This is the course website for PSYCH-GA 2229 Regression, taught by [Professor Madalina Vlasceanu, Ph.D.](https://www.mvlasceanu.com/), at New York University. The content on this site is provided Open Accessible under the [CC BY-NC-SA 4.0 License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
+#### test20240120
+
 ## Goals 
 
 Students completing this dcotoral-level course will have a detailed understanding of multiple regression (MR) as a data-analytic method. Students will review theory and practice of the General Linear Model and learn how MR can be used to carry out analyses of quantitative and categorical data. The relation of MR to correlation, t-tests, ANOVAs, and Mixed Models will be made explicit. Students will solve practical problems in estimating and testing regression models and they will gain experience in carrying out MR analyses using R and Python.
