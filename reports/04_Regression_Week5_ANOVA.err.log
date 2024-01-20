@@ -27,7 +27,7 @@ sns.barplot(x='party', y="RdeltaB", hue='pop_unpop', data=df, ax=ax)
 
 [1;31m---------------------------------------------------------------------------[0m
 [1;31mAttributeError[0m                            Traceback (most recent call last)
-Cell [1;32mIn[20], line 4[0m
+Cell [1;32mIn[21], line 4[0m
 [0;32m      1[0m [38;5;66;03m# Let's look at the data split by the within and between factors we care about[39;00m
 [0;32m      3[0m fig, ax [38;5;241m=[39m plt[38;5;241m.[39msubplots([38;5;241m1[39m,[38;5;241m1[39m, figsize[38;5;241m=[39m([38;5;241m5[39m,[38;5;241m6[39m))
 [1;32m----> 4[0m sns[38;5;241m.[39mbarplot(x[38;5;241m=[39m[38;5;124m'[39m[38;5;124mparty[39m[38;5;124m'[39m, y[38;5;241m=[39m[38;5;124m"[39m[38;5;124mRdeltaB[39m[38;5;124m"[39m, hue[38;5;241m=[39m[38;5;124m'[39m[38;5;124mpop_unpop[39m[38;5;124m'[39m, data[38;5;241m=[39mdf, ax[38;5;241m=[39max)
